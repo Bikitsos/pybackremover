@@ -8,8 +8,8 @@ Follow these steps to install and run the Background Remover:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/background-remover.git
-    cd background-remover
+    git clone https://github.com/Bikitsos/pybackremover.git
+    cd cd pybackremover
     ```
 
 2. Create a virtual environment and activate it:
